@@ -3,21 +3,20 @@
 需要`Node`运行环境支持
 
 ## 安装
-```
+```bash
 git clone https://github.com/loveyu/ChangdaNetworkCheck.git
 or
 git clone git@github.com:loveyu/ChangdaNetworkCheck.git
-
 npm install
 ```
 
 ## 运行
-```js
+```bash
 node index.js
 ```
 
 或者
 
-```js
+```bash
 nohup node index.js >> cd.log 2>&1 &
 ```
